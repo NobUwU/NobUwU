@@ -4,3 +4,5 @@ I have enjoyed doing things computer related since I was a small chad, whether i
 <br>However, I have not done anything worth mentioning yet, but I intend to keep coding and working on projects until I have something worth mentioning!
 
 If you need something contact me on Discord `Nobu#1122`
+
+[Nobu](https://github.com/NobUwU/NobUwU/blob/main/asset.png)
