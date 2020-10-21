@@ -1,7 +1,7 @@
 ### Hey there, I'm Nobu I suppose
 
 I have enjoyed doing things computer related since I was a small chad, whether it be making some random shit that crashes your computer or something that actually functions;
-<br>However, I have not done anything worth mentioning yet, but I intend to keep coding and working on projects until I have something worth mentioning!
+<br>
 
 If you need something contact me on Discord `Nobu#1122`
 
