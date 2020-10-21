@@ -5,4 +5,4 @@ I have enjoyed doing things computer related since I was a small chad, whether i
 
 If you need something contact me on Discord `Nobu#1122`
 
-[Nobu](https://github.com/NobUwU/NobUwU/blob/main/asset.png)
+![Nobu](https://github.com/NobUwU/NobUwU/blob/main/asset.png)
