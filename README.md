@@ -1,6 +1,6 @@
 ### Hey there, I'm Nobu I suppose
 
-Ever since I was a little champ I have enjoyed doing things computer related, as of now I still love it and the passion has not dissipated;
+I have enjoyed doing things computer related since I was a small chad, whether it be making some random shit that crashes your computer or something that actually functions;
 <br>However, I have not done anything worth mentioning yet, but I intend to keep coding and working on projects until I have something worth mentioning!
 
 If you need something contact me on Discord `Nobu#1122`
