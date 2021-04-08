@@ -1,2 +1,4 @@
-<p>Beans<img src="https://raw.githubusercontent.com/NobUwU/NobUwU/main/asset.png"/></p>
+
+<img align="right" width="200" height="200" src="">
+
 
