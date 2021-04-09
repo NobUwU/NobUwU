@@ -1,9 +1,8 @@
 <img align="center" src= "https://raw.githubusercontent.com/NobUwU/NobUwU/main/public/top-banner.png">
 
-### 💻 A Bit About Me
+<img align="right" width="130" height="200" src="https://github.com/NobUwU/NobUwU/blob/main/public/nobu-chibi-300px-480px.png">
 
-<img align="right" width="200" height="380" src="https://github.com/NobUwU/NobUwU/blob/main/public/nobu-chibi-300px-480px.png">
-<br>
+### 💻 A Bit About Me
 
 Hiya, my name is Nobu I am a 17-year-old male that resides in Midwest America and I admire coding!
 
