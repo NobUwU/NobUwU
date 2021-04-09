@@ -16,6 +16,7 @@ Most of my projects range anywhere from memeware to full-stack websites.
 My experience is still very newborn and I regularly learn new things daily. I am always up to any task that is within my capabilities and I embrace learning from my mistakes and further develop my experience.
 
 With my current expierence I am familiar with:
+
 [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [Python](https://www.python.org/), [Java](https://www.java.com/en/), [PHP](https://www.php.net/), [NodeJS](https://nodejs.org/), [Vue](https://vuejs.org/), [MongoDB](https://www.mongodb.com/), [MYSQL](https://www.mysql.com/)
 
 <img align="center" src= "https://github.com/NobUwU/NobUwU/blob/main/public/footer-smol.png">
