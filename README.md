@@ -12,7 +12,7 @@ Most of my projects range anywhere from memeware to full-stack websites.
 
 ## What I Know ⚙️
 
-My experience is still very newborn and I regularly learn new things daily. I am always up to any task that is within my capabilities and I embrace learning from my mistakes and further develop my experience.
+My experience is still very newborn and I regularly learn new things daily. I am always up to any task that is within my capabilities and I embrace learning from my mistakes to further develop my experience.
 
 With my current expierence I am familiar with:
 
