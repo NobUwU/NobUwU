@@ -2,8 +2,8 @@
 
 ### 💻 A Bit About Me
 
-<img align="right" width="300" height="300" src="https://github.com/NobUwU/NobUwU/blob/main/public/nobu-chibi-bad-because-i-drew-it.png">
-
+<img align="right" width="200" height="200" src="https://github.com/NobUwU/NobUwU/blob/main/public/nobu-chibi-bad-because-i-drew-it.png">
+<br>
 Hiya, my name is Nobu I am a 17-year-old male that resides in Midwest America and I admire coding!
 
 Ever since I have been a small child I have perpetually enjoyed breaking apart problems and constructing solutions hence I found my passion in using code to solve problems and make arbitrary projects for fun.
