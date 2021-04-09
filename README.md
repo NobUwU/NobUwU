@@ -2,7 +2,7 @@
 
 ### 💻 A Bit About Me
 
-<img align="right" width="200" height="200" src="https://github.com/NobUwU/NobUwU/blob/main/public/nobu-chibi-bad-because-i-drew-it.png">
+<img align="right" width="250" height="250" src="https://github.com/NobUwU/NobUwU/blob/main/public/nobu-chibi-bad-because-i-drew-it.png">
 <br>
 
 Hiya, my name is Nobu I am a 17-year-old male that resides in Midwest America and I admire coding!
