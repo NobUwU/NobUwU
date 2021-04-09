@@ -1,6 +1,6 @@
 <img align="center" src= "https://raw.githubusercontent.com/NobUwU/NobUwU/main/public/top-banner.png">
 
-<img align="right" width="130" height="200" src="https://github.com/NobUwU/NobUwU/blob/main/public/nobu-chibi-300px-480px.png">
+<img align="right" width="130" height="210" src="https://github.com/NobUwU/NobUwU/blob/main/public/nobu-chibi-300px-480px.png">
 
 ### 💻 A Bit About Me
 
@@ -10,7 +10,7 @@ Ever since I have been a small child I have perpetually enjoyed breaking apart p
 
 Most of my projects range anywhere from memeware to full-stack websites.
 
-### What I Know
+### ⚙️ What I Know
 
 My experience is still very newborn and I regularly learn new things daily. I am always up to any task that is within my capabilities and I embrace learning from my mistakes and further develop my experience.
 
