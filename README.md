@@ -22,8 +22,7 @@ With my current expierence I am familiar with:
 
 I have made a lot of irregular and weird projects and I hope as time progresses my projects will become even more absurd, but out of all of them here are some I believe are worth considering.
 
-• [Animiru](https://animiru.net) - *Animiru is a free to watch anime platform.*
-*Please note this site is not infringing/violating any laws, it is simply crawling other sites that are violating terms/laws and making it easier to access thier content. I am not affiliated with any of the parties doing so.*
+• [Animiru](https://animiru.net) - *Animiru is a free to watch anime platform. For any legal issues please see [Animiru DMCA](https://github.com/Animiru/Animiru/blob/master-uwu/DMCA.md#legal-disclaimer)* 
 
 • [yuasharder](https://github.com/NobUwU/yuasharder) - *Yuasharder is a package for clustering and sharding bots utilizing Discord Eris.*
 
