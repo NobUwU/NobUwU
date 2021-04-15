@@ -31,3 +31,7 @@ I have made a lot of irregular and weird projects and I hope as time progresses 
 <img align="center" src= "https://github.com/NobUwU/NobUwU/blob/main/public/footer-smol.png">
 
 Banner Art By [arthemark](https://www.instagram.com/arthemark/)
+
+Discord: *Nobu#1122*
+
+Email: *nowobuwu@gmail.com*
