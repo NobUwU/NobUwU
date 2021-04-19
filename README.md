@@ -16,7 +16,7 @@ My experience is still very newborn and I regularly learn new things daily. I am
 
 With my current expierence I am familiar with:
 
-[Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [Java](https://www.java.com/en/), [PHP](https://www.php.net/), [NodeJS](https://nodejs.org/), [Vue](https://vuejs.org/), [MongoDB](https://www.mongodb.com/), [MYSQL](https://www.mysql.com/)
+[Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [Java](https://www.java.com/en/), [PHP](https://www.php.net/), [NodeJS](https://nodejs.org/), [Vue](https://vuejs.org/), [React](https://reactjs.org/), [React Native](https://reactnative.dev/), [MongoDB](https://www.mongodb.com/), [MYSQL](https://www.mysql.com/)
 
 ## Projects Worth Mentioning ✨
 
