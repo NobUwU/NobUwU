@@ -4,7 +4,7 @@
 
 ## A Bit About Me 💻
 
-Hiya, my name is Nobu I am a 17-year-old male that resides in Midwest America and I admire coding!
+Hiya, my name is Nobu I am a dweeb that resides in Midwest America and I admire coding!
 
 Ever since I have been a small child I have perpetually enjoyed breaking apart problems and constructing solutions hence I found my passion in using code to solve problems and making arbitrary projects for fun.
 
@@ -33,5 +33,3 @@ I have made a lot of irregular and weird projects and I hope as time progresses 
 Banner Art By [arthemark](https://www.instagram.com/arthemark/)
 
 Discord: *Nobu#1122*
-
-Email: *nowobuwu@gmail.com*
