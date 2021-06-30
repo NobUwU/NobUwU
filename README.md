@@ -28,6 +28,10 @@ I have made a lot of irregular and weird projects and I hope as time progresses 
 
 • [CherryBlossomTavern](https://github.com/CherryBlossomTavern) - *Cherry Blossom Tavern is a Discord community aimed towards bringing Discord related content to the public*
 
+## [Support Me](https://ko-fi.com/nobuwu) 💸
+
+As much as I enjoy doing code, it takes a lot of time and effort to do make this stuff. Any support is appreciated! [Ko-Fi](https://ko-fi.com/nobuwu)
+
 <img align="center" src= "https://github.com/NobUwU/NobUwU/blob/main/public/footer-redo.png">
 
 Banner Art By [arthemark](https://www.instagram.com/arthemark/)
