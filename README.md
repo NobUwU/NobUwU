@@ -44,7 +44,7 @@ I have made a lot of irregular and weird projects and I hope as time progresses 
 
 • [Animiru](https://animiru.net) - *Animiru is a free to watch anime platform. For any legal issues please see [Animiru DMCA](https://github.com/Animiru/Animiru/blob/master-uwu/DMCA.md#legal-disclaimer)* 
 
-• [SliceyJS](https://nobuwu.github.io/sliceyjs) - *💫 SliceyJS is a utility wrapper for DJS*
+• [SliceyJS](https://nobuwu.github.io/sliceyjs) - *💫 SliceyJS is a utility wrapper for Discord.js*
 
 • [yuasharder](https://github.com/NobUwU/yuasharder) - *Yuasharder is a package for clustering and sharding bots utilizing Discord Eris.*
 
